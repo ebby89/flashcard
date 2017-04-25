@@ -1,0 +1,75 @@
+.hide-js {
+  display: none;
+}
+
+.hide-op {
+  display: none;
+}
+
+.hide-var {
+  display: none;
+}
+
+.hide-vnc {
+  display: none;
+}
+
+.hide-fun {
+  display: none;
+}
+
+.hide-me {
+  display: none;
+}
+
+.hide-arg {
+  display: none;
+}
+
+.hide-par {
+  display: none;
+}
+
+.hide-re {
+  display: none;
+}
+
+.hide-cm {
+  display: none;
+}
+
+.hide-str {
+  display: none;
+}
+
+.hide-boo {
+  display: none;
+}
+
+.hide-und {
+  display: none;
+}
+
+.hide-nan {
+  display: none;
+}
+
+.hide-esc {
+  display: none;
+}
+
+.hide-al {
+  display: none;
+}
+
+.hide-com {
+  display: none;
+}
+
+.hide-jq {
+  display: none;
+}
+
+.hide-att {
+  display: none;
+}
