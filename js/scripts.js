@@ -75,4 +75,18 @@ $(document).ready(function() {
     $(".hide-att").toggle();
     $(".show-att").toggle();
   });
+
+  $('li').click(function(){
+    $(this).next('.hidden-list').toggle();
+  });
+
+
+
+
+
+
+
+
+
+
 });
